@@ -8,28 +8,33 @@ I started my Computer Science Journey learning Java in 2020. I have experience i
 
 Further, here are some of my recent achievements:
 
-● Software Engineering intern for Lockheed Martin Corporate headquarters.
+#### Software Engineering intern for Lockheed Martin Corporate headquarters.
   - Developed an efficient data pipeline to transmit DIS simulation data into a visualization dashboard for Lockheed’s clients using ELK stack and python and successfully deployed it on a Kubernetes environment.  
   - Lead a team of 3 developers and pitched implementation to the VP’s and CTO of the company. Currently, my pipeline is being used by Lockheed and will be demonstrated at Lockheed’s end of year conference. 
   - Independently developed 2 user dashboards using Kibana and Vega. Dashboards are currently being used by OA’s and military commanders for simulation practices with Lockheed. 
 
-● Data Analytics Consultant for SCORE Association.
+#### Data Analytics Consultant for SCORE Association.
   - Investigated improvements on SCORE’s social media accounts for Facebook and Google Business for 256 nationwide offices.
   -  Utilized Natural Language Processing, Sentiment Analysis and OLS regression models to optimize post retention by using Score’s data set consisting of over 100,000 observations.
   -   Created a regional and national recommendation outline that is currently being used by SCORE’s social media team.
       -   SCORE has seen an overall increase in impressions by 14% after implementing my recommendations.
 
-● Computer Science Intern at Edlyft
+#### Computer Science Intern at Edlyft
   - Responsible for overseeing the University of Maryland department, creating lesson plans / material, as well as teaching advanced level object-oriented programming in Java. 
   - Notable investors include Jeff Weiner (former CEO, now Executive Chairman of LinkedIn), Village Global VC, January Ventures, Backstage Capital and more.
 
-● Team Liaison and researcher of the Gemstone Honors department for the University of Maryland.
+#### Team Liaison and researcher for the University of Maryland.
   - I lead a team of 8 whose objective consists of improving current AI model detection rates for non-small cell lung cancer, supervised by our mentor, Dr. Soheil Feizi.
 
-* 🌍  I'm based in Maryland
-* ✉️  You can contact me at [yaragudi.ritvik@gmail.com](mailto:yaragudi.ritvik@gmail.com)
-* 🧠  I'm learning Springboot
-* 🤝  I'm open to collaborating on backend services using Java or Python
+_______________________________________________________________________________________________________________________________________________________________________
+
+🌍  I'm based in Maryland
+
+✉️  You can contact me at [yaragudi.ritvik@gmail.com](mailto:yaragudi.ritvik@gmail.com)
+
+🧠  I'm learning Springboot
+
+🤝  I'm open to collaborating on backend services using Java or Python
 
 ### Skills
 
