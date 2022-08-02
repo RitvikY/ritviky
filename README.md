@@ -8,7 +8,7 @@ I started my Computer Science Journey learning Java in 2020. I have experience i
 
 Further, here are some of my recent achievements:
 
-#### Software Engineering intern for Lockheed Martin Corporate headquarters.
+#### Software Engineering Intern for Lockheed Martin Corporate headquarters.
   - Developed an efficient data pipeline to transmit DIS simulation data into a visualization dashboard for Lockheed’s clients using ELK stack and python and successfully deployed it on a Kubernetes environment.  
   - Lead a team of 3 developers and pitched implementation to the VP’s and CTO of the company. Currently, my pipeline is being used by Lockheed and will be demonstrated at Lockheed’s end of year conference. 
   - Independently developed 2 user dashboards using Kibana and Vega. Dashboards are currently being used by OA’s and military commanders for simulation practices with Lockheed. 
