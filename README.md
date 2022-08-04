@@ -28,13 +28,13 @@ Further, here are some of my recent achievements:
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-🌍  I'm based in Maryland
+🌍  I am based in Maryland
 
 ✉️  You can contact me at [yaragudi.ritvik@gmail.com](mailto:yaragudi.ritvik@gmail.com)
 
-🧠  I'm learning Springboot
+🧠  I am learning Springboot
 
-🤝  I'm open to collaborating on backend services using Java or Python
+🤝  I am open to collaborating on backend services using Java or Python
 
 ### Skills
 
