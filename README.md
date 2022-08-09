@@ -61,3 +61,7 @@ ________________________________________________________________________________
 <a href="http://www.github.com/ritviky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ritviky&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/ritviky"><img src="https://activity-graph.herokuapp.com/graph?username=ritviky&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ritviky" width="400"/>
+</a>
